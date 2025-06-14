@@ -1,7 +1,14 @@
 # 🛒 Online Shopping Website
 
-This is a basic online shopping website built using HTML, CSS, JavaScript, and PHP with XAMPP server for backend and database operations.
+Overview
+This is a complete e-commerce web application built with PHP, MySQL, HTML, CSS, and JavaScript that allows users to browse products, add items to a shopping cart, and complete purchases with payment processing.
+This is a mini project for building an **Online Shopping Website** using web development technologies. The site allows users to register, log in, browse products, add them to a shopping cart, and proceed to checkout. The admin can also manage product listings.
 
+This project is ideal for learning how to:
+- Connect frontend with PHP backend
+- Use forms for login/registration
+- Work with a MySQL database through phpMyAdmin
+- Handle sessions and basic CRUD operations
 ## 🚀 Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
@@ -54,4 +61,4 @@ project-root/
 │   └── shopping_db.sql  # (your database schema)
 │
 ├── README.md            # (project documentation)
-└── LICENSE              # (if applicable)
+└── 
